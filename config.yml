@@ -4,9 +4,9 @@ BOT_TOKEN: 5713549903:AAHBevkxw4XMhdAPUqvQDjS77ENHH5uk4DA
 
 
 MONGO_URL: mongodb+srv://vs:tUYncTxdXiaPhMbi@cluster0.3b1bnas.mongodb.net/?retryWrites=true&w=majority
-REDIS_URI:redis-13757.c273.us-east-1-2.ec2.cloud.redislabs.com
+REDIS_URI: redis-13757.c273.us-east-1-2.ec2.cloud.redislabs.com
 REDIS_PORT:13757
-REDIS_PASS:hdD4WujQwT8ouE5BD7LVUFuanC0LyBBa
+REDIS_PASS: hdD4WujQwT8ouE5BD7LVUFuanC0LyBBa
 
 SESSION_API_ID: 15649932
 SESSION_API_HASH: ac748828574bf5b0ff75eef790d902df
