@@ -1,0 +1,14 @@
+{
+    "name": "Milerok",
+    "description": "Telegram Testing",
+    "repository": "https://github.com/wajirr4/millierusk",
+    "website": "https://github.com/wajirr4/millierusk",
+    "success_url": "https://t.me/wajirrr",
+    "stack": "heroku-20",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
