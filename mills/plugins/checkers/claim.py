@@ -8,7 +8,7 @@
 ➻ Example: <code>/claim *key*</code>
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+©<a href="https://t.me/BotMakerBD">BotMakerBD</a>
 """
 
 
