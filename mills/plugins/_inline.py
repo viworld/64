@@ -25,8 +25,8 @@ from mills.plugins.checkers.utils.tools import cc_gen
 
 SUP_BUTTONS = [
     [
-        Button.url("• Github •", url="https://github.com/r0ld3x"),
-        Button.url("• Support •", url="t.me/roldexverse"),
+        Button.url("• channal •", url="https://t.me/xteambd"),
+        Button.url("• Support •", url="t.me/noob_xd"),
     ],
     [
         Button.inline("• Up Time •", "upp"),
@@ -37,8 +37,8 @@ SUP_BUTTONS = [
 
 HELP_BUTTONS = [
     [
-        Button.url("• Owner •", url="https://t.me/r0ld3x"),
-        Button.url("• Support •", url="https://t.me/roldexverse"),
+        Button.url("• Owner •", url="https://t.me/noob_xd"),
+        Button.url("• Support •", url="https://t.me/xteambdchat"),
     ],
 ]
 
@@ -151,7 +151,7 @@ async def _(event):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/xteambd"),
                 ],
             ],
         )
@@ -170,7 +170,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/xteambd"),
                 ],
             ],
         )
@@ -184,7 +184,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/xteambd"),
                 ],
             ],
             thumb=InputWebDocument(BOT_PIC, 0, "image/jpg", []),
@@ -204,7 +204,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/xteambd"),
                 ],
             ],
             thumb=InputWebDocument(BOT_PIC, 0, "image/jpg", []),
@@ -240,7 +240,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/xteambd"),
                 ],
             ],
             thumb=InputWebDocument(BOT_PIC, 0, "image/jpg", []),
@@ -262,7 +262,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/xteambd"),
                 ],
             ],
             thumb=InputWebDocument(BOT_PIC, 0, "image/jpg", []),
