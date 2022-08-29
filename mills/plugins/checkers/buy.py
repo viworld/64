@@ -5,7 +5,7 @@
 - <code>/buy<code>: Check Available plans for unlocking paid checker gates.
 ──────────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+©<a href="https://t.me/BotMakerBD">BotMakerBD</a>
 """
 import inspect
 import io
