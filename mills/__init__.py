@@ -47,12 +47,12 @@ API_ID = get_int("API_ID") or int(input("Enter API_ID: "))
 API_HASH = get_str("API_HASH") or input("Enter API_HASH: ")
 BOT_TOKEN = get_str("BOT_TOKEN") or input("Enter BOT_TOKEN: ")
 MONGO_URL = get_str("MONGO_URL") or input("Enter MONGO_URL: ")
-REDIS_URI = get_str("REDIS_URI") or "127.0.0.1"
-REDIS_PORT = get_int("REDIS_PORT") or "6379"
+REDIS_URI = get_str("REDIS_URI") or "redis-13757.c273.us-east-1-2.ec2.cloud.redislabs.com"
+REDIS_PORT = get_int("REDIS_PORT") or "13757"
 REDIS_PASS = get_str("REDIS_PASS") or None
 SESSION_STRING= get_str("SESSION_STRING", True)
 LOG_CHAT = get_int("LOG_CHAT")
-ADMINS = get_list("ADMINS") or []
+ADMINS = get_list("ADMINS")
 
 HANDLERS = get_list("HANDLERS")
 BOT_PIC = get_str("BOT_PIC")
