@@ -37,7 +37,7 @@ async def _(m):
 └──────────────────────────┘
 """
     buttons = [
-        Button.url('Buy Now', 'https://t.me/r0ld3x'),
-        Button.url('Test Keys', 'https://t.me/roldexverse'),
+        Button.url('Buy Now', 'https://t.me/noob_xd'),
+        Button.url('Test Keys', 'https://t.me/xteambd'),
     ]
     await m.reply(text,buttons= buttons, file = BOT_PIC)
