@@ -5,7 +5,7 @@
 <code>/scrape</code> username amount  - Scrape amount no. cards from the username
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+©<a href="https://t.me/BotMakerBD">BotMakerBD</a>
 """
 
 
