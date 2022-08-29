@@ -8,7 +8,7 @@
 - <code>/demote</code>: Demote replied user.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+©<a href="https://t.me/BotMakerBD">BotMakerBD</a>
 """
 import inspect
 import io
