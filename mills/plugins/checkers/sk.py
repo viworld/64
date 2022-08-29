@@ -5,7 +5,7 @@
 <code>/sk</code> key || <reply_to_msg> - Check Stipe Key
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+©<a href="https://t.me/BotMakerBD">BotMakerBD</a>
 """
 
 
