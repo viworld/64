@@ -9,7 +9,7 @@
 - <code>/calender</code>: Get Current Month calender.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+©<a href="https://t.me/BotMakerBD">BotMakerBD</a>
 """
 import calendar
 import datetime
