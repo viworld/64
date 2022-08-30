@@ -50,10 +50,7 @@ async def _(m,lang):
         [
             Button.url("Support", f'https://t.me/{SUPPORT_CHAT}'),
             Button.url("Source code", 'https://t.me/NOOB_XD'),
-        ],[
-            Button.url("CHANNAL", 'https://t.me/xteambd'),
-            Button.url("Owner", 'https://t.me/NOOB_xd'),
-        ]
+        ],
     ]
     link = await m.client.download_profile_photo(m.sender_id)
     if not link:
